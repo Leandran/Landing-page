@@ -1,3 +1,3 @@
 # Landing-page
 Landing page sign up form
-link: 
+link: https://strattonoakmontcrypto.netlify.app/
